@@ -1,0 +1,44 @@
+#EXTINF:-1, BARCA TV
+rtmp://31.220.2.56/pull/barzatv85?keys=PpO8GpWO-VMAp9ZbqyE94Q&keyt=1440155997 swfhttp://files.leton.tv/jwplayer.flash.swf live=1 pagehttp://leton.tv/
+#EXTINF:-1, BOING
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chboingtele5/2011/08/29/43256274-8828-4ec3-a413-643c4524998e
+#EXTINF:-1, NICK LATINO
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, DISNEY JR LATINO
+http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, DRAGON BALL LATINO
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfhttp://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pagehttp://iblups.com/e_richenginner-570-330
+#EXTINF:-1, TA TE TI CARICATURAS
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TOM AND JERRY
+rtmp://208.53.180.130/ctv/tom playpath=tom swfhttp://www.carolineoliveira.com.br/swf/player.swf live=1 pagehttp://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF:-1, MEGA HD ESPAÃ?A
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1, MEGA
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8?
+#EXTINF:-1, DISCOVERY LATINO
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, DHE MOVIES LATINO
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, SYFY LATINO
+http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, PELÍCULAS HD LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, GOLDEN EDGE LATINO
+http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, CINEMAX HD LATINO
+http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, FOX HD LATINO
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, SPACE HD LATINO
+http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, E STUDIO UNIVERSAL LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
+#EXTINF:-1, SONY LATINO
+http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, AMC
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.13/pull/ playpath=amc36?keys=arDbN8yHjb_al4T1xFeqaA&keyt=1439947242 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=amc36&width=600&height=450
+#EXTINF:-1, WARNER LATINO
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
